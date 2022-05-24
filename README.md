@@ -1,4 +1,5 @@
 ### Machy´s profile 👋
+- <a href="https://discord.com/users/931226381721952296">Discord Profile</a>
 - HTML
 - Node JS
 - Pyton
